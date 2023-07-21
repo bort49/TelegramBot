@@ -29,7 +29,7 @@ public class TelegramBot extends TelegramLongPollingBot {
     //он сам периодически проверяет, но он проще
 
     final BotConfig config;
-    final int botAdmin; //final int botAdmin = 397611532;
+    final int botAdmin ;
 
     public TelegramBot(BotConfig config) {
         this.config = config;

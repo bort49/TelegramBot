@@ -20,9 +20,11 @@ target/
 *.ipr
 *.class
 
-#tokens
+### tokens ###
 /src/main/resources/application.properties
-
+### black list and log ###
+list1.bmp
+log.txt
 
 ### NetBeans ###
 /nbproject/private/
